@@ -1,16 +1,21 @@
-# Tarjeta Gr·fica NVIDIA GeForce RTX 3080
+## Hardware
 
-## GPU Potente para Experiencias de Juego Inmersivas
+# CPU
 
-![NVIDIA GeForce RTX 3080](https://img.pccomponentes.com/articles/51/514403/1873-gigabyte-geforce-rtx-3080-gaming-oc-v2-10gb-gddr6x.jpg)
+La unidad central de procesamiento (conocida por las siglas CPU, del ingl√©s Central Processing Unit).
 
-### CaracterÌsticas:
+![alt text](https://www.mymcpl.org/sites/default/files/CPU%20diagram%203.png)
 
-- Arquitectura Ampere con n˙cleos CUDA mejorados para un rendimiento excepcional.
-- 10 GB de memoria GDDR6X para manejar cargas de trabajo intensivas.
-- Ray Tracing en tiempo real para una representaciÛn de gr·ficos m·s realista.
-- Tensor Cores para capacidades avanzadas de inteligencia artificial en juegos.
-- Interfaces de pantalla HDMI 2.1 y DisplayPort 1.4a para una conectividad vers·til.
-- TecnologÌa DLSS (Deep Learning Super Sampling) para mejorar la calidad de la imagen.
+| Componente      | Procesador (CPU o Unidad central de procesamiento)       |
+| --------------- | ------------------------------------------ |
+| **Arquitectura** | Varies seg√∫n el fabricante (ej. x86, ARM)   |
+| **Velocidad**    | Medida en GHz (gigahercios)                 |
+| **N√∫cleos**      | N√∫mero de n√∫cleos de procesamiento         |
+| **Subprocesos**  | N√∫mero de subprocesos simult√°neos          |
+| **Cach√©**        | Memoria cach√© integrada                    |
+| **Tecnolog√≠a de Fabricaci√≥n** | Proceso de fabricaci√≥n en nan√≥metros  |
+| **Consumo de Energ√≠a** | Medido en vatios (W)                 |
+| **Instrucciones** | Conjunto de instrucciones compatibles     |
+| **GPU Integrada** | Presencia de unidad de procesamiento gr√°fico integrada |
+| **Virtualizaci√≥n** | Soporte para tecnolog√≠as de virtualizaci√≥n |
 
-Esta tarjeta gr·fica ofrece un rendimiento excepcional para juegos y aplicaciones que requieren una potencia gr·fica significativa.

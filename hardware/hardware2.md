@@ -1,16 +1,21 @@
-# Procesador Quantum X-2000
+## Hardware
 
-## Un rendimiento excepcional para tus tareas m·s exigentes
+# Tarjeta Gr√°fica
 
-![Imagen Representativa](https://img.pccomponentes.com/articles/1080/10800472/8111-samsung-tq65q77catxxc-65-qled-ultrahd-4k-quantum-hdr-regalo-barra-de-sonido-samsung-hw-c400-foto.jpg)
+![alt text](https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_114060777?x=960&y=720&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=960&ey=720&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=960&cdy=720)
 
-### CaracterÌsticas:
+| Componente      | Tarjeta Gr√°fica                            |
+| --------------- | ------------------------------------------ |
+| **Modelo**      | Modelo espec√≠fico de la tarjeta gr√°fica    |
+| **Arquitectura** | Arquitectura de la GPU (ej. NVIDIA Turing, AMD RDNA) |
+| **Memoria VRAM** | Capacidad de la memoria de video en gigabytes (GB) |
+| **Bus de Memoria** | Ancho del bus de memoria en bits           |
+| **Velocidad del Reloj** | Frecuencia de operaci√≥n de la GPU en MHz  |
+| **N√∫cleos CUDA/Stream** | N√∫mero de n√∫cleos de procesamiento de la GPU |
+| **Tecnolog√≠a de Fabricaci√≥n** | Proceso de fabricaci√≥n en nan√≥metros  |
+| **Conectores de Pantalla** | Tipos de conectores para monitores (ej. HDMI, DisplayPort) |
+| **Compatibilidad DirectX/OpenGL** | Versiones compatibles de las API de gr√°ficos |
+| **Soporte para Ray Tracing** | Capacidades de ray tracing, si est√° presente |
+| **Consumo de Energ√≠a** | Requerimientos de energ√≠a en vatios (W)    |
+| **Compatibilidad con SLI/CrossFire** | Posibilidad de configuraci√≥n multi-GPU |
 
-- Arquitectura de m˙ltiples n˙cleos para un rendimiento paralelo superior.
-- Frecuencia de reloj de 4.0 GHz para una ejecuciÛn r·pida de tareas.
-- TecnologÌa de proceso de 7 nm para eficiencia energÈtica.
-- Soporte para instrucciones avanzadas de inteligencia artificial.
-- Sistema de refrigeraciÛn lÌquida integrado para mantener temperaturas Ûptimas.
-- Compatible con las ˙ltimas tecnologÌas de conectividad, como PCIe 4.0.
-
-Este procesador Quantum X-2000 ofrece un rendimiento excepcional para aplicaciones exigentes, desde ediciÛn de video hasta simulaciones computacionales.
